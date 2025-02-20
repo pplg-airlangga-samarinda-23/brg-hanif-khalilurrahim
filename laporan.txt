@@ -1,0 +1,3 @@
+jadi kesimpulan saya dari dua perbedaan CRUD sebelum dan sesudah modelu 26 adalah 
+dimana jika sebelum modul 26 php dan htmlnya itu di gabung yang dimana membuat line pada sebuah file menjadi banyak
+lalu untuk yang sesudah html dan phpnya dipisah yang dimana membuatnya terlihat lebih rapi dan lebih mudah untuk mencari bagian yang error
